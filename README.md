@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Syria Tel is a telecommunications company that is looking to optimize their resources and improve customer retention. Customer churn is when a customer leaves/discontinues their service with SyriaTel. Due to limited resources, they would like to focus their efforts on customers that are less likely to churn while still trying to retain customers who are likely to churn. This project aims to analyze a telecommunications dataset and develop a predictive model that determines if a customer will churn or not. The data used was a churn in telecommuniations  dataset.
+Syria Tel is a telecommunications company that is looking to optimize their resources and improve customer retention. Customer churn is when a customer leaves/discontinues their service with SyriaTel. Due to limited resources, they would like to focus their resources on features that affect customers churn status. This project aims to analyze a telecommunications dataset and develop a predictive model that determines if a customer will churn or not. The data used was a churn in telecommuniations  dataset.
 
 link: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data
 
